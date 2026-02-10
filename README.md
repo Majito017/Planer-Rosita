@@ -1,67 +1,119 @@
 # Planer-Rosita
-<h1 style="color:#d63384; text-align:center;">
-🌸 English Study Planner – Level A1 🌸
+<h1 style="color:#d63384; text-align:center; font-weight:900;">
+🌸 ENGLISH STUDY PLANNER – LEVEL A1 🌸
 </h1>
 
-<div style="background-color:#fde2eb; padding:20px; border-radius:14px;">
+<h3 style="color:#e75480; text-align:center; font-weight:900;">
+✨ Daily Routine · Consistency over perfection ✨
+</h3>
 
-<h2 style="color:#c2185b;">📅 Daily Study Blocks</h2>
+<div style="
+  background-color:#fde2eb;
+  padding:25px;
+  border-radius:16px;
+  text-align:center;
+  font-weight:900;
+">
 
-<table style="width:100%; border-collapse:collapse; background-color:#f8a1c4; color:black;">
+<!-- DAILY BLOCKS -->
+<table style="
+  margin:auto;
+  width:90%;
+  border-collapse:collapse;
+  background-color:#f8a1c4;
+  color:black;
+  font-weight:900;
+">
   <tr>
-    <th style="border:2px solid black; padding:10px;">Done</th>
-    <th style="border:2px solid black; padding:10px;">Block</th>
-    <th style="border:2px solid black; padding:10px;">Activity</th>
-    <th style="border:2px solid black; padding:10px;">Time</th>
+    <th style="border:3px solid black; padding:12px;">DONE</th>
+    <th style="border:3px solid black; padding:12px;">BLOCK</th>
+    <th style="border:3px solid black; padding:12px;">ACTIVITY</th>
+    <th style="border:3px solid black; padding:12px;">TIME</th>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">Block 1</td>
-    <td style="border:2px solid black; padding:10px;">📱 Anki – Vocabulary</td>
-    <td style="border:2px solid black; padding:10px;">20 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">BLOCK 1</td>
+    <td style="border:3px solid black;">📱 ANKI – VOCABULARY</td>
+    <td style="border:3px solid black;">20 MIN</td>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">Block 2</td>
-    <td style="border:2px solid black; padding:10px;">📘 Grammar Study</td>
-    <td style="border:2px solid black; padding:10px;">30–45 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">BLOCK 2</td>
+    <td style="border:3px solid black;">📘 GRAMMAR STUDY</td>
+    <td style="border:3px solid black;">30–45 MIN</td>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">Block 3</td>
-    <td style="border:2px solid black; padding:10px;">📖 Reading + New Words</td>
-    <td style="border:2px solid black; padding:10px;">15 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">BLOCK 3</td>
+    <td style="border:3px solid black;">📖 READING + NEW WORDS</td>
+    <td style="border:3px solid black;">15 MIN</td>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">Block 4</td>
-    <td style="border:2px solid black; padding:10px;">🎧 Listening (YouTube A1)</td>
-    <td style="border:2px solid black; padding:10px;">45–60 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">BLOCK 4</td>
+    <td style="border:3px solid black;">🎧 LISTENING (YOUTUBE A1)</td>
+    <td style="border:3px solid black;">45–60 MIN</td>
   </tr>
 </table>
 
-<h2 style="color:#c2185b; margin-top:25px;">😴 Low Energy Plan</h2>
+<br><br>
 
-<table style="width:100%; border-collapse:collapse; background-color:#f8a1c4; color:black;">
+<!-- SPEAKING -->
+<h2 style="color:#e75480; font-weight:900;">
+🗣 SPEAKING PRACTICE
+</h2>
+
+<p style="font-weight:900;">
+⬜ TUESDAY – Speak out loud (15 min)<br>
+⬜ FRIDAY – Speak out loud (15 min)
+</p>
+
+<p style="font-weight:900;">
+Repeat sentences · Read aloud · Talk about your day
+</p>
+
+<br>
+
+<!-- LOW ENERGY -->
+<h2 style="color:#e75480; font-weight:900;">
+😴 LOW ENERGY PLAN
+</h2>
+
+<table style="
+  margin:auto;
+  width:70%;
+  border-collapse:collapse;
+  background-color:#f8a1c4;
+  color:black;
+  font-weight:900;
+">
   <tr>
-    <th style="border:2px solid black; padding:10px;">Done</th>
-    <th style="border:2px solid black; padding:10px;">Activity</th>
-    <th style="border:2px solid black; padding:10px;">Time</th>
+    <th style="border:3px solid black; padding:12px;">DONE</th>
+    <th style="border:3px solid black; padding:12px;">ACTIVITY</th>
+    <th style="border:3px solid black; padding:12px;">TIME</th>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">📱 Anki</td>
-    <td style="border:2px solid black; padding:10px;">20 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">📱 ANKI</td>
+    <td style="border:3px solid black;">20 MIN</td>
   </tr>
+
   <tr>
-    <td style="border:2px solid black; text-align:center;">⬜</td>
-    <td style="border:2px solid black; padding:10px;">🎧 YouTube in English</td>
-    <td style="border:2px solid black; padding:10px;">20–30 min</td>
+    <td style="border:3px solid black;">⬜</td>
+    <td style="border:3px solid black;">🎧 YOUTUBE IN ENGLISH</td>
+    <td style="border:3px solid black;">20–30 MIN</td>
   </tr>
 </table>
 
-<p style="color:black; margin-top:15px;">
-✨ Consistency over perfection ✨
+<br>
+
+<p style="font-weight:900;">
+✨ EVEN THE MINIMUM COUNTS ✨
 </p>
 
 </div>
